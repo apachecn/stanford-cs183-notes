@@ -3,3 +3,4 @@
 +   [斯坦福 CS183c 闪电式扩张中文笔记](http://cs183.apachecn.org/docs/c/)
 +   [斯坦福 CS183f YC 创业课 2017 中文笔记](http://cs183.apachecn.org/docs/f/)
 +   [YC 创业课 2018 中文笔记](http://cs183.apachecn.org/docs/sus2018/)
++   [YC 创业课 2019 中文笔记](http://cs183.apachecn.org/docs/sus2019/)
