@@ -9,7 +9,7 @@
 +   [Kat Manalac 和 Craig Cannon - 用于增长的公关+内容](9.md)
 +   [Tyler Bosmeny - 如何销售](10.md)
 +   [Ammon Bartram 和 Harj Taggar - 组建工程团队](11.md)
-+   [Dalton Caldwell - 如何在 Y Combinator 上应用和成功](12.md)
++   [Dalton Caldwell - 如何在 Y Combinator 上申请和成功](12.md)
 +   [Patrick Collison - 运营你的创业公司](13.md)
 +   [Geoff Ralston - 筹款基础](14.md)
 +   [Kirsty Nathoo - 了解保险箱和定价股票轮](15.md)
