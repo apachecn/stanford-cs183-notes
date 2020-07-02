@@ -63,9 +63,15 @@
       repo: 'apachecn/stanford-cs183-notes',
       plugins: [window.docsPlugin],
       externalLinkTarget: '_self',
+      search: {
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '没有结果',
+      },
     }
   </script>
   
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
