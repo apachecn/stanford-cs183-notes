@@ -1,6 +1,4 @@
 +   [Balaji Srinivasan at Startup School 2013](1.md)
-+   [Phil Libin at Startup School 2013](10.md)
-+   [Ron Conway at Startup School 2013](11.md)
 +   [Chase Adam at Startup School 2013](2.md)
 +   [Chris Dixon at Startup School 2013](3.md)
 +   [Dan Siroker at Startup School 2013](4.md)
@@ -9,3 +7,5 @@
 +   [Mark Zuckerberg at Startup School 2013](7.md)
 +   [Nate Blecharczyk at Startup School 2013](8.md)
 +   [Office Hours at Startup School 2013 with Paul Graham and Sam Altman](9.md)
++   [Phil Libin at Startup School 2013](10.md)
++   [Ron Conway at Startup School 2013](11.md)
