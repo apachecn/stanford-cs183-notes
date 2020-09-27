@@ -24,6 +24,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install stanford-cs183-notes
+stanford-cs183-notes <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
