@@ -24,6 +24,14 @@
 
 ## 下载
 
+### Docker
+
+```
+docker pull apachecn0/stanford-cs183-notes
+docker run -tid -p <port>:80 apachecn0/stanford-cs183-notes
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### PYPI
 
 ```
