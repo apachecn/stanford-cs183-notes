@@ -3,6 +3,7 @@
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 +   [在线阅读](http://cs183.apachecn.org)
++   [在线阅读（Gitee）](https://apachecn.gitee.io/stanford-cs183-notes/)
 +   ApacheCN 面试求职交流群 724187166
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
 
